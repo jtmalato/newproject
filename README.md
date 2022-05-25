@@ -7,19 +7,22 @@ The file structure is organized as such:
 
 ``` text
 newproject
-  ├── README.md
-  ├── lab-book.md
   ├── data
   |     ├── out
   |     ├── raw
   |     ├── README.md
   ├── report
+  |     ├── README.md
   ├── results
   |     ├── figures
   |     ├── tables
   ├── scripts
   |     ├── README.md
   ├── submission
+  |     ├── README.md
   ├── .gitignore
   ├── LICENSE
+  ├── README.md
+  ├── lab-book.md
+  ├── newproject.Rproj
 ```
