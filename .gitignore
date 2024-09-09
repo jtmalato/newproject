@@ -1,11 +1,5 @@
-# History files
-.Rhistory
-# Data files
-.RData
-# User-specific files
-.Ruserdata
-# RStudio files
 .Rproj.user
-# Ignore Mac DS_Store files
+.Ruserdata
+.Rhistory
+.RData
 .DS_Store
-**/.DS_Store
